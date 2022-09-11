@@ -47,4 +47,4 @@
 44.	Languages to learn to become a Smart Contract Developer — With Resources-resourcve
 45.	Roadmap for Web3/Smart Contract Hacking | 2022-https://sm4rty.medium.com/roadmap-for-web3-smart-contract-hacking-2022-229e4e1565f9
 46.	Ethereum Tutorial: Writing Real Estate Smart-contracts in Solidity-https://betterprogramming.pub/ethereum-tutorial-real-estate-smart-contract-in-solidity-75a6c47023ce
-47.	
+47.	 [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)

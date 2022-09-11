@@ -1,7 +1,7 @@
 # Dedicated Resources (Blockchain)
 --------------------------
 -------------------------
-1.	[For Advance books](https://www.manning.com/)      
+1.	[For Advance books of Blockchain](https://www.manning.com/)      
 2.	Grokking Bitcoin book-https://rosenbaum.se/book/grokking-bitcoin.html#step-3-the-blockchain
 3.	EthSpring-Open Ethereum Learning Resources-https://ethspring.com/   
 4.	Learn to Build on Ethereum.-https://www.ethuniversity.org/summer   

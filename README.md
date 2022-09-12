@@ -49,3 +49,4 @@
 46.	Ethereum Tutorial: Writing Real Estate Smart-contracts in Solidity-https://betterprogramming.pub/ethereum-tutorial-real-estate-smart-contract-in-solidity-75a6c47023ce
 47.	 [EVM: From Solidity to byte code, memory and storage](https://youtu.be/RxL_1AfV7N4)
 48. **Solidity & Ethereum Application Development** --https://youtube.com/playlist?list=PLNLh1EyDzSGP-lkNCBhCptoJ-NMu_BYfS
+49. [**Openzalien Defender**](https://youtube.com/playlist?list=PLdJRkA9gCKOMdqVKrkYKT6ulDwDVG6_Ya)

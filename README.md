@@ -1,11 +1,15 @@
 # Dedicated Resources (Blockchain)
 --------------------------
 -------------------------
-1.	[For Advance books of Blockchain](https://www.manning.com/)      
-2.	Grokking Bitcoin book-https://rosenbaum.se/book/grokking-bitcoin.html#step-3-the-blockchain
+1.	[For Advance books of Blockchain](https://www.manning.com/)    
+----
+2.	[Grokking Bitcoin book  (Advance technical book)](https://rosenbaum.se/book/grokking-bitcoin.html#step-3-the-blockchain)
+----
 3.	EthSpring-Open Ethereum Learning Resources-https://ethspring.com/   
-4.	Learn to Build on Ethereum.-https://www.ethuniversity.org/summer   
-5.	Bitcoin: A Technical Crash Course-https://youtube.com/playlist?list=PLdW8AKJtqW7u7JKzkiXsDxNFlOrmjGwDJ                                                                          
+----
+4.	Learn to Build on Ethereum.-https://www.ethuniversity.org/summer 
+----
+5.	Bitcoin: A Technical Crash Course-https://youtube.com/playlist?list=PLdW8AKJtqW7u7JKzkiXsDxNFlOrmjGwDJ                                                         ----                 
 6.	Blockchain Interoperability — Sidechains-https://medium.com/coinmonks/blockchain-interoperability-sidechains-e8204b8c2a10  
 7.	Proof Of Work Explained-https://medium.com/coinmonks/proof-of-work-explained-e783ccd2f87c    
 8.	The roadmap to serenity upgrades-https://consensys.net/blog/blockchain-explained/the-roadmap-to-serenity-2/

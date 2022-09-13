@@ -57,3 +57,5 @@
 
 ------------------------------------
 [Top Ethereum Contract Open-Source Projects on Github ](https://gitclone.dev/top-ethereum-contract-open-source-projects-on-github/)
+
+[Ethereum Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/development-recommendations/solidity-specific/tx-origin/)
